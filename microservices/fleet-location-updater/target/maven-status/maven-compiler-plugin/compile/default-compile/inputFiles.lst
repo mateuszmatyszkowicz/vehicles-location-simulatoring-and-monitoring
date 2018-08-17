@@ -1,0 +1,13 @@
+/Users/chengwei/spring-cars/microservices/fleet-location-updater/src/main/java/demo/web/package-info.java
+/Users/chengwei/spring-cars/microservices/fleet-location-updater/src/main/java/demo/model/package-info.java
+/Users/chengwei/spring-cars/microservices/fleet-location-updater/src/main/java/demo/model/ServiceLocation.java
+/Users/chengwei/spring-cars/microservices/fleet-location-updater/src/main/java/demo/service/impl/DefaultServiceLocationService.java
+/Users/chengwei/spring-cars/microservices/fleet-location-updater/src/main/java/demo/WebSocketConfig.java
+/Users/chengwei/spring-cars/microservices/fleet-location-updater/src/main/java/demo/FleetLocationUpdaterSink.java
+/Users/chengwei/spring-cars/microservices/fleet-location-updater/src/main/java/demo/web/WebSocketApi.java
+/Users/chengwei/spring-cars/microservices/fleet-location-updater/src/main/java/demo/model/FaultCode.java
+/Users/chengwei/spring-cars/microservices/fleet-location-updater/src/main/java/demo/service/ServiceLocationService.java
+/Users/chengwei/spring-cars/microservices/fleet-location-updater/src/main/java/demo/model/CurrentPosition.java
+/Users/chengwei/spring-cars/microservices/fleet-location-updater/src/main/java/demo/model/Point.java
+/Users/chengwei/spring-cars/microservices/fleet-location-updater/src/main/java/demo/model/VehicleStatus.java
+/Users/chengwei/spring-cars/microservices/fleet-location-updater/src/main/java/demo/FleetLocationUpdaterApplication.java
